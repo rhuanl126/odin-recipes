@@ -10,7 +10,7 @@ Minimalist and user-friendly design
 ## 📌 How to Use
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/Recipes.git
+   git clone https://github.com/rhuanl126/odin-recipes.git
 ```
 2. Open index.html in your browser.
 
